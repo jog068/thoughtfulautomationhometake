@@ -30,11 +30,3 @@ Expected:
 
 - `npm start -- 150 10 10 25` prints `REJECTED`
 - `npm test` passes all tests
-
-## Replit configuration
-
-This repository includes a `.replit` file with a one-click run command:
-
-```txt
-npm install && npm start -- 10 10 10 5
-```
