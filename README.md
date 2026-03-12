@@ -38,6 +38,3 @@ This repository includes a `.replit` file with a one-click run command:
 ```txt
 npm install && npm start -- 10 10 10 5
 ```
-
-When imported into Replit as a Node.js repl, clicking **Run** executes the sample case directly.
-# thoughtfulautomationhometake
